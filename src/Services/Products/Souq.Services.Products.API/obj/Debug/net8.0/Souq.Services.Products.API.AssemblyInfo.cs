@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Souq.Services.Products.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6d272187dfcde8cd1bbea576a66619c44a08a74")]
 [assembly: System.Reflection.AssemblyProductAttribute("Souq.Services.Products.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Souq.Services.Products.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

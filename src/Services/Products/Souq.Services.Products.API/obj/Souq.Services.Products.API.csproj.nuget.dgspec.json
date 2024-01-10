@@ -4,14 +4,14 @@
     "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\Services\\Products\\Souq.Services.Products.API\\Souq.Services.Products.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\EventBus\\MassTransit\\EventBus.csproj": {
+    "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\BuildingBlocks\\EventBus\\EventBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\EventBus\\MassTransit\\EventBus.csproj",
+        "projectUniqueName": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
         "projectName": "EventBus",
-        "projectPath": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\EventBus\\MassTransit\\EventBus.csproj",
+        "projectPath": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\BuildingBlocks\\EventBus\\EventBus.csproj",
         "packagesPath": "C:\\Users\\modyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\EventBus\\MassTransit\\obj\\",
+        "outputPath": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\BuildingBlocks\\EventBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\modyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +101,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\EventBus\\MassTransit\\EventBus.csproj": {
-                "projectPath": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\EventBus\\MassTransit\\EventBus.csproj"
+              "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\BuildingBlocks\\EventBus\\EventBus.csproj": {
+                "projectPath": "C:\\Users\\modyk\\OneDrive - Faculty Of Engineering (Tanta University)\\Desktop\\Souq\\src\\BuildingBlocks\\EventBus\\EventBus.csproj"
               }
             }
           }
