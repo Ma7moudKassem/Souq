@@ -1,0 +1,6 @@
+@Souq.ApiGateways.Dashboard.API_HostAddress = http://localhost:5049
+
+GET {{Souq.ApiGateways.Dashboard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
